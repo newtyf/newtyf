@@ -1,4 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/87625663?v=4" width="100"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/axel-mu%C3%B1oz/" target="_blank" >
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://leetcode.com/Trez_/" target="_blank" >
+      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=newtyf&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="body" align="center">
+  <h2>
+    <p>Hi, i'm Newt 🐲<p>
+    <img src="https://media.giphy.com/media/5Z679ITUbZTodxmd9d/giphy.gif" width="500"/>
+  </h2>
+</div>
 
 <!--
 **newtyf/newtyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
