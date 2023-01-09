@@ -14,10 +14,15 @@
 
 <div id="body" align="center">
   <h2>
-    <p>Hi, i'm Newt 🐲<p>
+    <p>Hi, I'm Newt 🐲<p>
     <img src="https://media.giphy.com/media/5Z679ITUbZTodxmd9d/giphy.gif" width="500"/>
   </h2>
 </div>
+
+---
+
+### 👨‍💻 About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 
 <!--
 **newtyf/newtyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
