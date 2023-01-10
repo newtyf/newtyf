@@ -1,8 +1,6 @@
 <div id="body" align="center">
   <h2>
     <p>Hi, I'm Newt 🐲<p>
-    
-    
   </h2>
   <img src="https://media.giphy.com/media/5Z679ITUbZTodxmd9d/giphy.gif" width="500"/>
   <div id="header" align="center">
@@ -21,6 +19,7 @@
 ---
 
 ### 👨‍💻 About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 
 <!--
