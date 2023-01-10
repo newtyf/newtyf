@@ -3,6 +3,8 @@
     <p>Hi, I'm Newt 🐲<p>
   </h2>
   <img src="https://media.giphy.com/media/5Z679ITUbZTodxmd9d/giphy.gif" width="500"/>
+  <br>
+  <br>
   <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/axel-mu%C3%B1oz/" target="_blank" >
