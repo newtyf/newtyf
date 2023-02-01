@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me :
 
 - I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
-- 🔭 I’m currently working on Rock-Paper-Scissors multiplayer game.
+- 🔭 I’m currently working on [Rock-Paper-Scissors](https://github.com/newtyf/rock-paper-scissors) multiplayer game.
 
 <!--
 **newtyf/newtyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
