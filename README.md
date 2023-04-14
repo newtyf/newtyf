@@ -27,9 +27,9 @@
 
 ### 🈹 Metrics:
 
-
+<Picture>
   <img src="/github-metrics.svg">
-
+</Picture>
 
 <!--
 **newtyf/newtyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
