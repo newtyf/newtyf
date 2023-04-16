@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me :
 
 - I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
-- 🔭 I’m currently working on [Space Invaders Game](https://github.com/newtyf/space-invaders-game-vite) multiplayer game.
+- 🔭 I’m currently working on [My Portfolio](newtyf-portfolio).
 
 ### 🈹 Metrics:
 
