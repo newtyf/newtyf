@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me :
 
 - I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
-- 🔭 I’m currently working on [My Portfolio](newtyf-portfolio).
+- 🔭 I’m currently working on [newtyf-portfolio](https://github.com/newtyf/newtyf-portfolio).
 
 ### 🈹 Metrics:
 
