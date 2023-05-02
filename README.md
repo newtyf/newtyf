@@ -22,6 +22,7 @@
 
 ### 👨‍💻 About Me :
 
+- Hi!, My name is Axel Muñoz, but my favorite nickname is Newt 👺
 - I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 - 🔭 I’m currently working on [newtyf-portfolio](https://github.com/newtyf/newtyf-portfolio).
 
