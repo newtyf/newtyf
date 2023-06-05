@@ -30,7 +30,7 @@
 ### 🈹 Metrics:
 
 <Picture>
-  <img src="/github-metrics.svg">
+  <img src="/github-metrics.svg" width="600">
 </Picture>
 
 <!--
