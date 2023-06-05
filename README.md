@@ -10,6 +10,9 @@
     <a href="https://www.linkedin.com/in/axel-mu%C3%B1oz/" target="_blank" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://newtyf.com" target="_blank" >
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=acclaim&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://leetcode.com/Trez_/" target="_blank" >
       <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" alt="LinkedIn Badge"/>
     </a>
