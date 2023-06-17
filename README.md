@@ -25,8 +25,7 @@
 
 ### 👨‍💻 About Me :
 
-- Hi!, My name is Axel Muñoz, but my favorite nickname is Newt 👺
-- I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
+- Hi!, My name is Axel Muñoz, I was bitten by a radioactive spider 🕷, and for the past 3 years, I have been the only known developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, known as Newt. 👺
 - 🔭 I’m currently working on [rps-game](https://github.com/newtyf/rock-paper-scissors).
 - 👨‍🎓 I’m currently learn [JAVA](https://www.java.com/en/).
 
