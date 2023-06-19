@@ -29,8 +29,6 @@
 
 - 🔭 I’m currently working on [IP-TRACKER-MOBILE-APP](https://api.github.com/repos/newtyf/ip-tracker-mobile-app).
 
-- 🔭 I’m currently working on [ip-tracker-mobile-app](https://api.github.com/repos/newtyf/ip-tracker-mobile-app).
-
 - 👨‍🎓 I’m currently learn [JAVA](https://www.java.com/en/).
 
 ### 🈹 Metrics:
