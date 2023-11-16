@@ -27,7 +27,7 @@
 
 - Hi!, My name is Axel C. Muñoz, I was bitten by a radioactive spider 🕷, and for the past 3 years, I have been the only developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, known as Newt. 👺
 
-- 🔭 I’m currently working on [LEETCODE-PROBLEMS-BY-NEWT](https://github.com/newtyf/leetCode-problems-by-newt).
+- 🔭 I’m currently working on [RECRE8_BACKEND](https://github.com/andresatodiaz/recre8_backend).
 
 - 👨‍🎓 I’m currently learn [JAVA](https://www.java.com/en/).
 
