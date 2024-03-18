@@ -27,7 +27,7 @@
 
 - Hi!, My name is Axel C. Muñoz, I was bitten by a radioactive spider 🕷, and for the past 3 years, I have been the only developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, known as Newt. 👺
 
-- 🔭 I’m currently working on [SVG-REPOSITORY-CREATOR](https://github.com/newtyf/svg-repository-creator).
+- 🔭 I’m currently working on [API-RPS](https://github.com/newtyf/api-rps).
 
 - 👨‍🎓 I’m currently learn [JAVA](https://www.java.com/en/).
 
