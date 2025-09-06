@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [UPDATE-README-PROFILE](https://github.com/newtyf/update-readme-profile).
 
-- 👨‍🎓 I’m currently learn [JAVA](https://www.java.com/en/).
+- 👨‍🎓 I’m currently learn [NESTJS-MICROSERVICES](https://www.udemy.com/course/nestjs-microservicios/).
 
 ### 🈹 Metrics:
 
