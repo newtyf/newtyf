@@ -27,7 +27,7 @@
 
 - Hi!, My name is Axel C. Muñoz, I was bitten by a radioactive spider 🕷, and for the past 3 years, I have been the only developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, known as Newt. 👺
 
-- 🔭 I’m currently working on [NODEJS-API-ZOLUXIONS](https://github.com/newtyf/nodejs-api-zoluxions).
+- 🔭 I’m currently working on [DATAPATH-FRONT-END](https://github.com/aichain-research/datapath-front-end).
 
 - 👨‍🎓 I’m currently learn [JAVA](https://www.java.com/en/).
 
