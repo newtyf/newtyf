@@ -27,7 +27,7 @@
 
 - Hi!, My name is Axel C. Muñoz, I was bitten by a radioactive spider 🕷, and for the past 3 years, I have been the only developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, known as Newt. 👺
 
-- 🔭 I’m currently working on [AICHAIN-CHATBOTS-BACKEND](https://github.com/aichain-research/aichain-chatbots-backend).
+- 🔭 I’m currently working on [NEWT-BOT](https://github.com/newtyf/Newt-Bot).
 
 - 👨‍🎓 I’m currently learn [NESTJS-MICROSERVICES](https://www.udemy.com/course/nestjs-microservicios/).
 
