@@ -27,7 +27,7 @@
 
 - Hi!, My name is Axel C. Muñoz, I was bitten by a radioactive spider 🕷, and for the past 3 years, I have been the only developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, known as Newt. 👺
 
-- 🔭 I’m currently working on [APPOINTMENT-BOOKING-SYSTEM](https://github.com/newtyf/appointment-booking-system).
+- 🔭 I’m currently working on [APPOINTMENT-BOOKING-SYSTEM-ANGULAR-JAVA](https://github.com/newtyf/appointment-booking-system-angular-java).
 
 - 👨‍🎓 I’m currently learn [NESTJS-MICROSERVICES](https://www.udemy.com/course/nestjs-microservicios/).
 
